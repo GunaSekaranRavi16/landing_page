@@ -6,8 +6,8 @@ function CapCutCourseSection() {
     { title: 'Getting started with Capcut', description: '' },
     { title: 'Understanding the interface and Importing Media', description: '' },
     { title: 'Enhancing and Adding elements to your Videos', description: '' },
-    { title: ' Advanced Editing Tips & Finalizing your Video', description: '' },
-    { title: 'Monetization', description: '' },
+    { title: 'Pro Tips to Polish & Perfect Your Videos!', description: '' },
+    { title: 'How to Monetize Your Videos Like a Pro!', description: '' },
     
   ];
 
