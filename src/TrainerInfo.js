@@ -5,11 +5,12 @@ import vignesh from '../src/immg/Vignesh.jpg'
 const TrainerInfo = () => {
   return (
     <section className="trainer-info">
-      <h2>About Your Instructor</h2>
+      <h2 className='t1'>About Your Instructor</h2>
       <img className="profile" src={vignesh}/>
       <div className="trainer-details">
         <h3>Yogaram Vignesh M</h3>
-        <p>Video Editor | Content Marketing Expert | Agency Owner </p>
+        <p>Video Editor | Content Marketing Expert |
+          <br></br> Agency Owner </p>
         {/* <p>Graphic & Web Desig</p> */}
         <button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
         

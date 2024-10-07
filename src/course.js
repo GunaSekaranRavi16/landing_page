@@ -13,7 +13,7 @@ function CapCutCourseSection() {
 
   return (
     <section className="capcut-course">
-      <h2>What’s Inside the Course?</h2>
+      <h2 className='t1'>What’s Inside the Course?</h2>
       <h3>Your Journey to become a video editing Expert Starts Here</h3>
       <div className="modules-container">
         {modules.map((module, index) => (

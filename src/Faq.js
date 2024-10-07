@@ -10,7 +10,7 @@ const Faq = () => {
 
   return (
     <section className="faq">
-      <h2>FAQs</h2>
+      <h2 className='t1'>FAQs</h2>
       <ul>
         {faqs.map((faq, index) => (
           <li key={index}>

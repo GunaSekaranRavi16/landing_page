@@ -29,7 +29,8 @@ const Header = () => {
       <CourseDescription/>
       </div>
       <h1> Ready to Edit Like a Pro?</h1>
-      <button className='btn01'>Yes,i want to become a video editor
+      <button className='btn01'>Yes, I want to become a 
+        <br></br>PRO video editor
       </button>
     </div>
   );
