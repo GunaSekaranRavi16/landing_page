@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landing_page/static/css/main.5e3ab3f4.css",
+    "main.js": "/landing_page/static/js/main.54e8eeca.js",
+    "static/js/453.7ee4257d.chunk.js": "/landing_page/static/js/453.7ee4257d.chunk.js",
+    "static/media/Vignesh.jpg": "/landing_page/static/media/Vignesh.7231a607bad73a84a8b8.jpg",
+    "static/media/graphic-designer.png": "/landing_page/static/media/graphic-designer.a32122e28de527ca7a91.png",
+    "static/media/online-learning.png": "/landing_page/static/media/online-learning.e3d5ea0b4c0e0fcbc84a.png",
+    "static/media/engineer.png": "/landing_page/static/media/engineer.6b1b3ac46d511671cb33.png",
+    "static/media/content.png": "/landing_page/static/media/content.42446d8dcedcba9fb2bc.png",
+    "static/media/students.png": "/landing_page/static/media/students.91f025e28c3c2814811e.png",
+    "index.html": "/landing_page/index.html",
+    "main.5e3ab3f4.css.map": "/landing_page/static/css/main.5e3ab3f4.css.map",
+    "main.54e8eeca.js.map": "/landing_page/static/js/main.54e8eeca.js.map",
+    "453.7ee4257d.chunk.js.map": "/landing_page/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3ab3f4.css",
+    "static/js/main.54e8eeca.js"
+  ]
+}
