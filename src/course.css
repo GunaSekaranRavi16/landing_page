@@ -1,0 +1,31 @@
+.capcut-course {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .modules-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .module-card {
+    width: 200px; /* Adjust width as needed */
+    text-align: center;
+    margin: 10px;
+    border: 3px solid #000;
+    padding: 10px;
+    border-radius: 30px;
+  }
+  
+  @media (max-width: 768px) {
+    /* Adjust media query breakpoint as needed */
+    .modules-container {
+      justify-content: center;
+    }
+  
+    .module-card {
+      width: 60%;
+      margin-bottom: 30px;
+    }
+  }

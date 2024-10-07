@@ -1,0 +1,36 @@
+.mastery-course {
+    
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .course-categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .category {
+    width: 100px; /* Adjust width as needed */
+    text-align: center;
+    margin: 10px;
+    padding-left: 5%;
+    /* padding-right: 3%; */
+  }
+  
+  .category img {
+    width: 150%;
+    height: auto;
+    
+  }
+  @media screen and (max-width: 768px) {
+    .course-categories {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .category img {
+        width: 100%;
+        height: auto;
+      }
+  }
