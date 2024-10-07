@@ -18,7 +18,10 @@
     margin-right: 10px;
   }
   .description-item p b{
-    color: red;
+    color: #47f300;
+  text-shadow: #47f300 0 0 10px, /* First shadow */
+               #47f300 0 0 20px;;
+    
   }
   @media screen and (max-width: 768px){
 .course-description {

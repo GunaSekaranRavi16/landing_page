@@ -14,6 +14,9 @@
     padding: 20px;
     color: white;
   }
+  .header h1{
+    font-size: 50px;
+  }
   .yt{
     display: flex;
     justify-content: center;
@@ -207,30 +210,11 @@ font-size: medium;
     margin-bottom: 10px;
   }
 .warning-text{
-  color: lightgreen;
-}
-.category {
-  border: 2px solid orange;
-  display: flex;
-  font-style:oblique;
-  flex-direction: column; /* Stacks image and text vertically */
-  justify-content: center; /* Centers content vertically */
-  align-items: center; /* Centers content horizontally */
-  text-align: center; /* Aligns text to the center */
-  padding: 30px; /* Optional: Adds padding around the content */
-  border-radius: 10px;
-  transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
-}
-.category p {
-  font-weight: bold; /* Makes the text bold */
-  text-transform: uppercase; /* Transforms text to uppercase */
-  margin-top: 10px; /* Optional: Adds space between image and text */
-}
-.category:hover{
-  background-color: #000;
-  color: white;
-  transform: scale(1.1); /* Pop animation */
-  z-index: 10;
+  font-size: larger;
+color: #47f300;
+  text-shadow: 
+      #47f300 0 0 10px, /* First shadow */
+      #47f300 0 0 20px;;
 }
 
   

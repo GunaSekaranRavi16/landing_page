@@ -27,7 +27,7 @@ const videos = [
 const VideoSection = () => {
   return (
     <div className="video-section">
-      <h2>Want to Create Videos That Wow?</h2>
+      <h2>Want to Create Videos That <span className='wow'>Wowww !!</span></h2> 
       <div className="videos-container">
         {videos.map((video) => (
           <div className="video-card" key={video.id}>

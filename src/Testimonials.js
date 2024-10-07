@@ -21,36 +21,31 @@ const Testimonials = () => {
         <div className="category">
       <img decoding="async" width="300" height="300" 
       src={student}/> 
-          <p>Students</p>
+          <p>Business Owner</p>
         </div>
         <div className="category">
         <img decoding="async" width="300" height="300" 
-        src={content_crt}/>
-          <p>Content Creator</p>
+        src={wp}/>
+          <p>Working Professionals</p>
         </div>
         <div className="category">
         <img loading="lazy" decoding="async" width="243" height="223" 
         src={teacher}/>
-          <p>Digital Coaches</p>
+          <p>Content creators/Digital Coaches</p>
         </div>
         <div className="category">
         <img loading="lazy" decoding="async" width="300" height="300" 
         src={gd}/>
-          <p>Graphics Designers</p>
+          <p>person look for 
+            full-time/freelance
+          </p>
         </div>
         <div className="category">
         <img loading="lazy" decoding="async" width="300" height="300" 
-        src={wp}/>
-          <p>Working Professionals</p>
+        src={content_crt}/>
+          <p>interest in making video</p>
         </div>
       </div>
-      <div className="course-questions">
-      {questions.map((question, index) => (
-        <div className="question-card" key={index}>
-          <p>{question.text}</p>
-        </div>
-      ))}
-    </div>
     </section>
   );
 };

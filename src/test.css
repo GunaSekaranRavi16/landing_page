@@ -2,6 +2,8 @@
     
     text-align: center;
     padding: 20px;
+    background-color: black;
+    color: white;
   }
   
   .course-categories {
@@ -12,17 +14,40 @@
   
   .category {
     width: 100px; /* Adjust width as needed */
-    text-align: center;
-    margin: 10px;
-    padding-left: 5%;
-    /* padding-right: 3%; */
+    margin: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: 2px solid orange;
+    display: flex;
+    font-style: oblique;
+    flex-direction: column; /* Stacks image and text vertically */
+    justify-content: center; /* Centers content vertically */
+    align-items: center; /* Centers content horizontally */
+    text-align: center; /* Aligns text to the center */
+   /* padding: 30px;  Optional: Adds padding around the content */
+    border-radius: 10px;
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.category img {
+    width: 100%;
+    height: auto;
+}
+
+.category p {
+    font-weight: bold; /* Makes the text bold */
+    text-transform: uppercase; /* Transforms text to uppercase */
+    margin-top: 10px; 
+    text-align: center;/* Optional: Adds space between image and text */
+}
+
+  .category:hover{
+    background-color: white;
+    color: black;
+    transform: scale(1.1); /* Pop animation */
+    z-index: 10;
   }
   
-  .category img {
-    width: 150%;
-    height: auto;
-    
-  }
   @media screen and (max-width: 768px) {
     .course-categories {
         display: flex;
@@ -30,7 +55,10 @@
         justify-content: center;
       }
       .category img {
-        width: 100%;
+        width: 70%;
         height: auto;
+      }
+      .category p {
+        font-size: 12px;
       }
   }
