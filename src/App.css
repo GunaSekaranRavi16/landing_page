@@ -9,13 +9,17 @@
     margin: 0px;
   }
   
+  
   .header {
     background-color: #000000;
     padding: 20px;
     color: white;
   }
+ .tit span{
+    color: #f89800;
+  }
   .tit{
-    font-size: 50px;
+    font-size: 46px;
   }
   .yt{
     display: flex;
@@ -52,8 +56,8 @@
  
   .trainer-info,
   .faq {
-    padding: 20px;
-    margin: 20px 0;
+    padding: 10%;
+    margin: 0%;
   }
   
   .testimonial-grid {

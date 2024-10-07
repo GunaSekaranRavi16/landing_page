@@ -9,7 +9,7 @@ const TrainerInfo = () => {
       <img className="profile" src={vignesh}/>
       <div className="trainer-details">
         <h3>Yogaram Vignesh M</h3>
-        <p>Content Creator | Content Marketing Expert | Video Creator | Agency Owner </p>
+        <p>Video Editor | Content Marketing Expert | Agency Owner </p>
         {/* <p>Graphic & Web Desig</p> */}
         <button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
         

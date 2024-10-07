@@ -17,7 +17,7 @@ const Header = () => {
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
       <link rel="manifest" href="/site.webmanifest"/>
       </Helmet>
-      <h1 className='tit'>Become a Pro Video Editor  in Just 3 Hours! </h1>
+      <h1 className='tit'>Become a <span className='org'>Pro</span> Video Editor  in Just <span className='org'>3 Hours!!</span> </h1>
       {/* <span>CapCut</span> */}
       <p className="warning-text">🚀From Noob to Expert: A CapCut Masterclass Tailored for Beginners! 🚀 </p>
       <div className='yt'>

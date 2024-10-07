@@ -5,6 +5,9 @@
     background-color: black;
     color: white;
   }
+  .mastery-course h2{
+    color:#f89800;
+  }
   
   .course-categories {
     display: flex;
