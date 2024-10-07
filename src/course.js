@@ -20,7 +20,6 @@ function CapCutCourseSection() {
           <div className="module-card" key={index}>
             <h4>Module #{index + 1}</h4>
             <p>{module.title}</p>
-            <p>{module.description}</p>
           </div>
         ))}
       </div>

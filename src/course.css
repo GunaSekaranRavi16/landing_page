@@ -1,22 +1,37 @@
 .capcut-course {
     text-align: center;
     padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  h2{
+    font-weight: bolder;
+    font-size: 50px;
   }
   
   .modules-container {
+
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
   
-  .module-card {
+  .module-card{
     width: 200px; /* Adjust width as needed */
     text-align: center;
     margin: 10px;
-    border: 3px solid #000;
+    border: 3px solid #f89800;    ;
     padding: 10px;
     border-radius: 30px;
-  }
+    box-shadow: 0px 0px 10px grey; /* Adds grey shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.module-card:hover {
+    transform: scale(1.1); /* Pops the button slightly when hovering */
+    box-shadow: 0px 6px 15px grey; /* Increases the shadow on hover */
+}
+  
   
   @media (max-width: 768px) {
     /* Adjust media query breakpoint as needed */

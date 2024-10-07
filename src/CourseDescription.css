@@ -11,8 +11,14 @@
     padding: 10px;
     margin: 10px 0;
     width: 300px;
-   text-align: left;    
+   text-align: left; 
+   transition: transform 0.3s ease, box-shadow 0.3s ease;  
+
 } 
+.description-item:hover {
+  transform: scale(1.1); /* Pops the button slightly when hovering */
+
+}
   .description-item span {
     color:  #ffa500;
     margin-right: 10px;

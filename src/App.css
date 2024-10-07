@@ -14,12 +14,14 @@
     padding: 20px;
     color: white;
   }
-  .header h1{
+  .tit{
     font-size: 50px;
   }
-  .yt{
+  .yt iframe{
     display: flex;
     justify-content: center;
+    border: 2px solid #f89800;
+    border-radius: 10px;
   }
   iframe{
     padding-top: 2%;
@@ -35,6 +37,17 @@
     cursor: pointer;
     margin-bottom: 10px;
   }
+  .btn01{
+    font-weight: bolder;
+    box-shadow: 0px 10px 10px grey; /* Adds grey shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for pop and shadow effect */
+}
+
+.btn01:hover {
+    transform: scale(1.1); /* Pops the button slightly when hovering */
+    box-shadow: 0px 6px 15px grey; /* Increases the shadow on hover */
+}
+  
   
  
   .trainer-info,
@@ -115,6 +128,7 @@
   }
   .faq {
    background-color: #000;
+   color: white;
   }
 
   @media screen and (max-width: 768px) {
@@ -169,6 +183,32 @@
     margin-bottom: 10px;
 
 }
+.enroll-button01 {
+  background-color: red;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 25px;
+  font-size: 2px;
+  cursor: pointer;
+  margin-bottom: 10px;
+
+}
+.enroll-button01 h2{
+  font-size: 15px;
+}
+.enroll-button01{
+  font-weight: bolder;
+  box-shadow: 0px 5px 10px grey; /* Adds grey shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for pop and shadow effect */
+}
+
+.enroll-button01:hover {
+  transform: scale(1.1); /* Pops the button slightly when hovering */
+  box-shadow: 0px 6px 15px grey; /* Increases the shadow on hover */
+}
+
+
 .enroll-button h6 {
 color: yellowgreen;
 font-size: medium;

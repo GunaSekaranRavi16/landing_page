@@ -11,9 +11,10 @@ const TrainerInfo = () => {
         <h3>Yogaram Vignesh M</h3>
         <p>Content Creator | Content Marketing Expert | Video Creator | Agency Owner </p>
         {/* <p>Graphic & Web Desig</p> */}
-        <button className="enroll-button"><h2>Enroll Now to Unlock Your Potential!</h2>
-        <h6>Claim Your FREE Bonuses Worth ₹4,500!</h6>
+        <button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
+        
         </button>
+        <h2 className='dis'>Claim Your FREE Bonuses Worth ₹2,500!</h2>
       </div>
       {/* <div className="workshop-banner">
         
