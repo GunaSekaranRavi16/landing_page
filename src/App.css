@@ -17,10 +17,10 @@
   .tit{
     font-size: 50px;
   }
-  .yt iframe{
+  .yt{
     display: flex;
     justify-content: center;
-    border: 2px solid #f89800;
+    /* border: 2px solid #f89800; */
     border-radius: 10px;
   }
   iframe{
