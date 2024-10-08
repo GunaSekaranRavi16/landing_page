@@ -5,10 +5,6 @@
     background-color: black;
     color: white;
   }
-  .mastery-course h2{
-    color:#f89800;
-  }
-  
   .course-categories {
     display: flex;
     flex-wrap: wrap;
@@ -35,6 +31,9 @@
 .category img {
     width: 100%;
     height: auto;
+}
+.master{
+  color: #f89800;
 }
 
 .category p {

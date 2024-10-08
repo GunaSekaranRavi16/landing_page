@@ -13,12 +13,12 @@ function CapCutCourseSection() {
 
   return (
     <section className="capcut-course">
-      <h2 className='t1'>What’s Inside the Course?</h2>
-      <h3>Your Journey to become a video editing Expert Starts Here</h3>
-      <div className="modules-container">
+      <h2 className='t1' data-aos="fade-up">What’s Inside the <span>Course</span>?</h2>
+      <h3 data-aos="fade-up">Your Journey to become a video editing Expert Starts Here</h3>
+      <div className="modules-container" >
         {modules.map((module, index) => (
-          <div className="module-card" key={index}>
-            <h4>Module #{index + 1}</h4>
+          <div className="module-card" key={index} data-aos="fade-up">
+            <h1>Module #{index + 1}</h1>
             <p>{module.title}</p>
           </div>
         ))}

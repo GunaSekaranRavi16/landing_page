@@ -7,7 +7,7 @@ const CallToAction = () => {
       <button className="cta-button" href="https://youtu.be/RcB9_6ofzqE?si=Aby1ccEwwyXC6kAr">
       Join Now and Start Editing Like a Pro!
       </button>
-      <p>
+      <p data-aos="zoom-out-up">
       Claim Your FREE Bonuses Worth ₹2,500!
       </p>
     </div>
