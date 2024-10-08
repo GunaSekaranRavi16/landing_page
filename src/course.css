@@ -38,11 +38,7 @@
     transform: scale(1.1); /* Pops the button slightly when hovering */
     box-shadow: 0px 6px 15px grey; /* Increases the shadow on hover */
 }
-.arr{
-  display: flex;
- 
 
-}
   
   
   @media (max-width: 768px) {
