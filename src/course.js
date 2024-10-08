@@ -1,4 +1,5 @@
 import React from 'react';
+import  BonusOffers from '../src/BonusOffers';
 import '../src/course.css'; // Import your CSS file for styling
 import capcut from '../src/immg/Software_Box_Mockup-Capcut.png';
 function CapCutCourseSection() {
@@ -12,6 +13,7 @@ function CapCutCourseSection() {
   ];
 
   return (
+    <div>
     <section className="capcut-course">
       <h2 className='t1' data-aos="fade-up">What’s Inside the <span>Course</span>?</h2>
       <h3 data-aos="fade-up">Your Journey to become a video editing Expert Starts Here</h3>
@@ -27,6 +29,8 @@ function CapCutCourseSection() {
       </div>
       </div>
     </section>
+    <BonusOffers/>
+    </div>
   );
 }
 

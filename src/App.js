@@ -21,6 +21,7 @@ function App() {
       <VideoSection/>
       <CallToAction/>
       <CapCutCourseSection/>
+      {/* <BonusOffers/> */}
       <TrainerInfo />
       <Faq />
     </div>

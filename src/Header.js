@@ -21,11 +21,15 @@ const Header = () => {
       {/* <span>CapCut</span> */}
       <p className="warning-text" data-aos="fade-up" data-aos-duration="3000">🚀From Noob to Expert: A CapCut Masterclass Tailored for Beginners! 🚀 </p>
       <div className='yt' >
-      <iframe data-aos="fade-up"data-aos-duration="2000" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ECV3Jck-Dt8?si=32lVexY_prhwYvYA" 
-      title="YouTube video player" frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      
+      <iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/gCcKBXQ7rvk?controls=0&modestbranding=1"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe> 
       <CourseDescription/>
       </div>
       <h1 data-aos="fade-down" data-aos-duration="1500"> Ready to Edit Like a Pro?</h1>
