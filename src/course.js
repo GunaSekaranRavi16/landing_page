@@ -1,6 +1,6 @@
 import React from 'react';
 import '../src/course.css'; // Import your CSS file for styling
-
+import capcut from '../src/immg/Software_Box_Mockup-Capcut.png';
 function CapCutCourseSection() {
   const modules = [
     { title: 'Getting started with Capcut', description: '' },
@@ -15,6 +15,8 @@ function CapCutCourseSection() {
     <section className="capcut-course">
       <h2 className='t1' data-aos="fade-up">What’s Inside the <span>Course</span>?</h2>
       <h3 data-aos="fade-up">Your Journey to become a video editing Expert Starts Here</h3>
+      <div className='arr'>
+      <img src={capcut} height='300' width='500' className='capcut'/>
       <div className="modules-container" >
         {modules.map((module, index) => (
           <div className="module-card" key={index} data-aos="fade-up">
@@ -22,6 +24,7 @@ function CapCutCourseSection() {
             <p>{module.title}</p>
           </div>
         ))}
+      </div>
       </div>
     </section>
   );
