@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.1b306795.css",
-    "main.js": "/landing_page/static/js/main.ebfdbacf.js",
+    "main.css": "/landing_page/static/css/main.7851b9fb.css",
+    "main.js": "/landing_page/static/js/main.5d5c6d40.js",
     "static/js/453.7ee4257d.chunk.js": "/landing_page/static/js/453.7ee4257d.chunk.js",
     "static/media/Software_Box_Mockup-Capcut.png": "/landing_page/static/media/Software_Box_Mockup-Capcut.64cdf7a0c227bf3dd7cf.png",
     "static/media/Vignesh.jpg": "/landing_page/static/media/Vignesh.7231a607bad73a84a8b8.jpg",
@@ -11,12 +11,12 @@
     "static/media/engineer.png": "/landing_page/static/media/engineer.6b1b3ac46d511671cb33.png",
     "static/media/content.png": "/landing_page/static/media/content.42446d8dcedcba9fb2bc.png",
     "index.html": "/landing_page/index.html",
-    "main.1b306795.css.map": "/landing_page/static/css/main.1b306795.css.map",
-    "main.ebfdbacf.js.map": "/landing_page/static/js/main.ebfdbacf.js.map",
+    "main.7851b9fb.css.map": "/landing_page/static/css/main.7851b9fb.css.map",
+    "main.5d5c6d40.js.map": "/landing_page/static/js/main.5d5c6d40.js.map",
     "453.7ee4257d.chunk.js.map": "/landing_page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b306795.css",
-    "static/js/main.ebfdbacf.js"
+    "static/css/main.7851b9fb.css",
+    "static/js/main.5d5c6d40.js"
   ]
 }
