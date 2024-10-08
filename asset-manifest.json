@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.fc2641f3.css",
-    "main.js": "/landing_page/static/js/main.4bb345d3.js",
+    "main.css": "/landing_page/static/css/main.1b306795.css",
+    "main.js": "/landing_page/static/js/main.ebfdbacf.js",
     "static/js/453.7ee4257d.chunk.js": "/landing_page/static/js/453.7ee4257d.chunk.js",
+    "static/media/Software_Box_Mockup-Capcut.png": "/landing_page/static/media/Software_Box_Mockup-Capcut.64cdf7a0c227bf3dd7cf.png",
     "static/media/Vignesh.jpg": "/landing_page/static/media/Vignesh.7231a607bad73a84a8b8.jpg",
     "static/media/graphic-designer.png": "/landing_page/static/media/graphic-designer.a32122e28de527ca7a91.png",
     "static/media/students.png": "/landing_page/static/media/students.55413447f1412d4e246e.png",
@@ -10,12 +11,12 @@
     "static/media/engineer.png": "/landing_page/static/media/engineer.6b1b3ac46d511671cb33.png",
     "static/media/content.png": "/landing_page/static/media/content.42446d8dcedcba9fb2bc.png",
     "index.html": "/landing_page/index.html",
-    "main.fc2641f3.css.map": "/landing_page/static/css/main.fc2641f3.css.map",
-    "main.4bb345d3.js.map": "/landing_page/static/js/main.4bb345d3.js.map",
+    "main.1b306795.css.map": "/landing_page/static/css/main.1b306795.css.map",
+    "main.ebfdbacf.js.map": "/landing_page/static/js/main.ebfdbacf.js.map",
     "453.7ee4257d.chunk.js.map": "/landing_page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2641f3.css",
-    "static/js/main.4bb345d3.js"
+    "static/css/main.1b306795.css",
+    "static/js/main.ebfdbacf.js"
   ]
 }
