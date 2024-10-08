@@ -32,7 +32,8 @@ const Header = () => {
 ></iframe> 
       <CourseDescription/>
       </div>
-      <h1 data-aos="fade-down" data-aos-duration="1500"> Ready to Edit Like a Pro?</h1>
+      <h1> Ready to Edit Like a Pro?</h1>
+      <br></br>
       <button className='btn01'>Yes, I want to become a 
         <br></br>PRO video editor
       </button>

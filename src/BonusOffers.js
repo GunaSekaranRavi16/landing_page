@@ -12,19 +12,11 @@ const BonusOffers = () => {
     <section className="bonus-offers">
       <h2>But Wait!!! I've Got Something More For You...</h2>
       <div className="bonuses">
-        <img src={Animated} height="auto" width="50%" className='b1'/>
-        <img src={sfx} height="auto" width="50%" className='b1'/>
-        <img src={png} height="auto" width="50%"className='b1'/>
-        <img src={overlay} height="auto" width="50%"className='b1'/>
-        {/* <div className="bonus">
-          <h3>1000+ Background Music</h3>
-
-          <p>Price: ₹2000</p>
-        </div>
-        <div className="bonus">
-          <h3>200+ Animated Emoji</h3>
-          <p>Price: ₹1000</p>
-        </div> */}
+        <img src={Animated} height="auto" width="50%" className='b1'data-aos="fade-down"  />
+        <img src={sfx} height="auto" width="50%" className='b1' data-aos="fade-down" />
+        <img src={png} height="auto" width="50%"className='b1' data-aos="fade-down" />
+        <br></br>
+        <img src={overlay} height="auto" width="50%"className='b1' data-aos="fade-down"/>
       </div>
     </section>
   );
