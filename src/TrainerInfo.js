@@ -10,7 +10,7 @@ const TrainerInfo = () => {
       <div className="trainer-details" >
         <h3 data-aos="fade-up">Yogaram Vignesh M</h3>
         <p data-aos="fade-up">Video Editor | Content Marketing Expert |
-          <br></br> Agency Owner </p>
+Agency Owner </p>
         {/* <p>Graphic & Web Desig</p> */}
         <button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
         
