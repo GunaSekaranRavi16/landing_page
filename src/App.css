@@ -25,7 +25,7 @@
     color: #f89800;
   }
   .tit{
-    font-size: 46px;
+    font-size: 45px;
   }
   .yt{
     display: flex;
@@ -50,6 +50,7 @@
   }
   .btn01{
     font-weight: bolder;
+    padding: 30px;
     box-shadow: 5px 6px 6px grey; /* Adds grey shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     animation: shake 0.5s ease-in-out  2.5s infinite; /* Smooth transition for pop and shadow effect */

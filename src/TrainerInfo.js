@@ -17,9 +17,9 @@ const TrainerInfo = () => {
 Agency Owner </p>
       <br></br>
         {/* <p>Graphic & Web Desig</p> */}
-        <button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
+        <a href="https://club.waytofortuneclub.in/cdp/i6aSJpebGu" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}><button className="enroll-button01"><h2>Enroll Now to Unlock Your Potential!</h2>
         
-        </button>
+        </button></a>
         <br></br>
       <br></br>
         <h2 className='dis' >Claim Your FREE Bonuses Worth ₹2,500!</h2>

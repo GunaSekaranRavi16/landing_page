@@ -29,11 +29,11 @@ const Header = () => {
       <CourseDescription/>
       </div>
       <br></br>
-      <h1> Ready to Edit Like a Pro?</h1>
+      <h3> Ready to Edit Like a Pro?</h3>
       <br></br>
-      <button className='btn01'>Yes, I want to become a 
+      <a href="https://club.waytofortuneclub.in/cdp/i6aSJpebGu" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}><button className='btn01'>Yes, I want to become a 
         <br></br>PRO video editor
-      </button>
+      </button></a>
     </div>
   );
 };

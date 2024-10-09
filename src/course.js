@@ -15,8 +15,9 @@ function CapCutCourseSection() {
   return (
     <div>
     <section className="capcut-course">
+      <img src={capcut} className='cc'></img>
       <h2 className='t1' >What’s Inside the <span>Course</span>?</h2>
-      <h3 >Your Journey to become a video editing Expert Starts Here</h3>
+      <h4 >Your Journey to become a video editing Expert Starts Here</h4>
       <div className='arr'>
       {/* <img src={capcut} height='300' width='500' className='capcut'/> */}
       <div className="modules-container" >

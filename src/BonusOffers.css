@@ -27,7 +27,18 @@
 /* .bonuses img{
     box-shadow:white 5px 5px 10px;
 } */
-
+.bon{
+    /* color:greenyellow; */
+    font-size: 25px;
+    font-weight: bold;
+    color: #47f300;
+    text-shadow: 
+        #47f300 0 0 10px, /* First shadow */
+        #47f300 0 0 20px;
+  }
+  .bon h1{
+    font-size: 100px
+  }
   
 
 @media screen and (max-width: 768px) {
