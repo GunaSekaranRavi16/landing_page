@@ -5,10 +5,11 @@ function App() {
   return (
     <div>
       <Helmet>
-        <title>Your Website Title</title>
+        <title>Learn Capcut Mastery in Tamil</title>
         <link rel="shortcut icon" href="/favicon.ico" />
       </Helmet>
       {/* Your website content */}
     </div>
   );
 }
+export default title;

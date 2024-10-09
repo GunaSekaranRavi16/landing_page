@@ -1,6 +1,7 @@
 // App.js
 import React from 'react';
 import Header from '../src/Header';
+import { Helmet } from 'react-helmet';
 // import MasteryCourse from '../src/MasteryCourse';
 // import CourseBenefits from '../src/CourseBenefits';
 import Testimonials from '../src/Testimonials';
@@ -16,6 +17,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      
       <Header />
       <Testimonials />
       <VideoSection/>
