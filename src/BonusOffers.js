@@ -12,11 +12,11 @@ const BonusOffers = () => {
     <section className="bonus-offers">
       <h2>But Wait!!! I've Got Something More For You...</h2>
       <div className="bonuses">
-        <img src={Animated} height="auto" width="50%" className='b1'data-aos="fade-down"  />
-        <img src={sfx} height="auto" width="50%" className='b1' data-aos="fade-down" />
-        <img src={png} height="auto" width="50%"className='b1' data-aos="fade-down" />
+        <img src={Animated} height="auto" width="50%" className='b1'/>
+        <img src={sfx} height="auto" width="50%" className='b1' />
+        <img src={png} height="auto" width="50%"className='b1' />
         <br></br>
-        <img src={overlay} height="auto" width="50%"className='b1' data-aos="fade-down"/>
+        <img src={overlay} height="auto" width="50%"className='b1' />
       </div>
     </section>
   );

@@ -16,31 +16,30 @@ const Testimonials = () => {
   ];
   return (
     <section className="mastery-course">
-      <h2 data-aos="fade-down" data-aos-duration="1500">Who Should Join This <span className='master'>Masterclass</span>?</h2>
+      <h2>Who Should Join This <span className='master'>Masterclass</span>?</h2>
       <div className="course-categories">
-        <div className="category" data-aos="fade-down" data-aos-duration="1500">
-      <img decoding="async" width="300" height="300" 
-      src={student}/> 
+        <div className="category">
+      <img src={student}/> 
           <p>Business Owner</p>
         </div >
-        <div className="category" data-aos="fade-down" data-aos-duration="1500">
+        <div className="category">
         <img decoding="async" width="300" height="300" 
         src={wp}/>
           <p>Working Professionals</p>
         </div>
-        <div className="category" data-aos="fade-down" data-aos-duration="1500">
+        <div className="category">
         <img loading="lazy" decoding="async" width="243" height="223" 
         src={teacher}/>
           <p>Content creators/Digital Coaches</p>
         </div>
-        <div className="category" data-aos="fade-down" data-aos-duration="1500">
+        <div className="category">
         <img loading="lazy" decoding="async" width="300" height="300" 
         src={gd}/>
           <p>person look for 
             full-time/freelance
           </p>
         </div>
-        <div className="category" data-aos="fade-down" data-aos-duration="1500">
+        <div className="category" >
         <img loading="lazy" decoding="async" width="300" height="300" 
         src={content_crt}/>
           <p>interest in making video</p>

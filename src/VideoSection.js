@@ -14,7 +14,7 @@ const videos = [
   },
   {
     id: 3,
-    src: 'https://youtube.com/embed/tnkjzUCYBz4?si=NzdSUqC3FIkIocWs',
+    src: 'https://www.youtube.com/embed/mpUBAB-topY',
     title: 'Character Development',
   },
   {
@@ -27,11 +27,11 @@ const videos = [
 const VideoSection = () => {
   return (
     <div className="video-section">
-      <h2 data-aos="fade-down" data-aos-duration="1500">Want to Create Videos That <span className='wow'data-aos="zoom-in-down" data-aos-duration="500" >Wowww !!</span></h2> 
+      <h2>Want to Create Videos That <span className='wow'>Wowww !!</span></h2> 
       <div className="videos-container">
         {videos.map((video) => (
           <div className="video-card" key={video.id}>
-            <iframe data-aos="fade-up"
+            <iframe
               width="240"
               height="500"
               src={video.src}

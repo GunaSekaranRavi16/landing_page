@@ -62,8 +62,7 @@
   
   
  
-  .trainer-info,
-  .faq {
+  .trainer-info {
     padding: 10%;
     margin: 0%;
   }
@@ -91,14 +90,7 @@
     margin-bottom: 10px;
   }
   
-  .faq ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .faq li {
-    margin-bottom: 10px;
-  }
+ 
   .video-section {
     padding: 20px;
   }
