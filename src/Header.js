@@ -11,8 +11,11 @@ const Header = () => {
   return (
     <div className="header">
            <h1 className='tit'data-aos="fade-up" data-aos-duration="3000">Become a <span className='org'>Pro</span> Video Editor  in Just <span className='org'>3 Hours!!</span> </h1>
+           <br></br>
+
       {/* <span>CapCut</span> */}
       <p className="warning-text" data-aos="fade-up" data-aos-duration="3000">🚀From Noob to Expert: A CapCut Masterclass Tailored for Beginners! 🚀 </p>
+      <br></br>
       <div className='yt' >
       <iframe
   width="560"
@@ -25,6 +28,7 @@ const Header = () => {
 ></iframe> 
       <CourseDescription/>
       </div>
+      <br></br>
       <h1> Ready to Edit Like a Pro?</h1>
       <br></br>
       <button className='btn01'>Yes, I want to become a 
