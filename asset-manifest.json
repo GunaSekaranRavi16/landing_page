@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.38669845.css",
-    "main.js": "/landing_page/static/js/main.cead92ba.js",
+    "main.css": "/landing_page/static/css/main.345d201a.css",
+    "main.js": "/landing_page/static/js/main.4090737d.js",
     "static/js/453.7ee4257d.chunk.js": "/landing_page/static/js/453.7ee4257d.chunk.js",
-    "static/media/Software_Box_Mockup-Capcut.png": "/landing_page/static/media/Software_Box_Mockup-Capcut.64cdf7a0c227bf3dd7cf.png",
     "static/media/Vignesh.jpg": "/landing_page/static/media/Vignesh.7231a607bad73a84a8b8.jpg",
-    "static/media/Animated Assets.png": "/landing_page/static/media/Animated Assets.7896a8fb619ec8feda29.png",
-    "static/media/Overlays.png": "/landing_page/static/media/Overlays.9d1d2b861039d52715dc.png",
-    "static/media/SFX Mockup.png": "/landing_page/static/media/SFX Mockup.178dbb20eb42f7ef6f53.png",
+    "static/media/Animated Assets.png": "/landing_page/static/media/Animated Assets.5b8726682a497fe18820.png",
+    "static/media/Overlays.png": "/landing_page/static/media/Overlays.9d1dc0c5dd4148cee07a.png",
+    "static/media/SFX Mockup.png": "/landing_page/static/media/SFX Mockup.ca7583a2bfe40db7efa5.png",
+    "static/media/Software_Box_Mockup-Capcut.png": "/landing_page/static/media/Software_Box_Mockup-Capcut.e6cee096a653e04cda02.png",
     "static/media/PNG Mockup.png": "/landing_page/static/media/PNG Mockup.e19618288c0953106598.png",
     "static/media/graphic-designer.png": "/landing_page/static/media/graphic-designer.a32122e28de527ca7a91.png",
     "static/media/students.png": "/landing_page/static/media/students.55413447f1412d4e246e.png",
@@ -15,12 +15,12 @@
     "static/media/engineer.png": "/landing_page/static/media/engineer.6b1b3ac46d511671cb33.png",
     "static/media/content.png": "/landing_page/static/media/content.42446d8dcedcba9fb2bc.png",
     "index.html": "/landing_page/index.html",
-    "main.38669845.css.map": "/landing_page/static/css/main.38669845.css.map",
-    "main.cead92ba.js.map": "/landing_page/static/js/main.cead92ba.js.map",
+    "main.345d201a.css.map": "/landing_page/static/css/main.345d201a.css.map",
+    "main.4090737d.js.map": "/landing_page/static/js/main.4090737d.js.map",
     "453.7ee4257d.chunk.js.map": "/landing_page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38669845.css",
-    "static/js/main.cead92ba.js"
+    "static/css/main.345d201a.css",
+    "static/js/main.4090737d.js"
   ]
 }
